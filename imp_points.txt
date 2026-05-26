@@ -1,0 +1,3 @@
+run program: npm run dev
+
+to change model for AI --app/lib/puter.ts => const feedback => model: "change"
